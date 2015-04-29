@@ -13,3 +13,7 @@ When the branch becomes bigger is harder to keep in mind all the commits and bra
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 the commits are merged into a single branch, any changes made in any branch are now merged into the same files. We represent the diagram to know the history of the branches.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Doing merges manually is not error-free. You could change the whole code trying to fix the merge problems. However, it is easier to organize the files keeping logical blocks of code.
+Git's automatic merging is an easier process but the file could be clumpsy.
