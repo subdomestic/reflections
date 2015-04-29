@@ -1,3 +1,5 @@
 What happens when you initialize a repository? Why do you need to do it?
 It creates several files needed in order to manage the repository, commits and so on. It is necessary to create it to use version control systems.
 
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+It the intermediate folder that allows to change the files wihtout modifying the original one. It's the central piece of the version control system.
