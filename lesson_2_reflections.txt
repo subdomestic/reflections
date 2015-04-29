@@ -3,3 +3,6 @@ It creates several files needed in order to manage the repository, commits and s
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 It the intermediate folder that allows to change the files wihtout modifying the original one. It's the central piece of the version control system.
+
+How can you use the staging area to make sure you have one commit per logical change?
+You can check what've you done in the working area and comparing it to the staging area to make sure you have one commit per logical change.
