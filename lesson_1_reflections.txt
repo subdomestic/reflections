@@ -27,4 +27,4 @@ You can go back easily to a workable version of the files without missing anythi
 
 Now that you have your workspace set up, what do you want to try using Git for?
 
-I want to use version control in a website
+I want to use version control in a website.
