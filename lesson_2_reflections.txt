@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+It creates several files needed in order to manage the repository, commits and so on. It is necessary to create it to use version control systems.
+
