@@ -6,3 +6,10 @@ It the intermediate folder that allows to change the files wihtout modifying the
 
 How can you use the staging area to make sure you have one commit per logical change?
 You can check what've you done in the working area and comparing it to the staging area to make sure you have one commit per logical change.
+
+How do the diagrams help you visualize the branch structure?
+When the branch becomes bigger is harder to keep in mind all the commits and branches structure. So, it helps to have the structure clear.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+the commits are merged into a single branch, any changes made in any branch are now merged into the same files. We represent the diagram to know the history of the branches.
