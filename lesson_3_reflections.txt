@@ -5,4 +5,7 @@ Why might you want to always pull changes manually rather than having Git automa
 Security purposes.
 It's not necessary to pull all changes at once, saving time not doing it every single change you made in the repository.
 
-
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+forks clones someone else's repository in GitHub to your own account
+clones copies a entire repository locally and from GitHub to your local machine
+branches creates a different branch in case you want to test new features without affecting the workable version.
